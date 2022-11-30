@@ -41,6 +41,12 @@ comment:
   provider: "disqus"
   disqus:
     shortname: jisu-1
+  
+analytics: 
+  provider: "google-gtag"
+
+  google:
+    tracking_id: "G-C3GPNTWBJD"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
