@@ -1,8 +1,8 @@
 ## Google analytics 추가
 <과정>
-- google analytics 사이트에 가입하기
-- 애널리틱스 속성 이름에 나의 git blog 주소 등록
-- 설정 -> 데이터 스트림에 들어가서 현재 git blog 주소 클릭
-- tracking ID를 찾아서 복사
-- _config.yml에 *provider: "google-gtag", tracking_id: "나의 tracking id"* 추가
-- 방문자 수 카운트 되는 것 확인!
+1. google analytics 사이트에 가입하기
+2. 애널리틱스 속성 이름에 나의 git blog 주소 등록
+3. 설정->데이터 스트림에 들어가서 현재 git blog 주소 클릭
+4. tracking ID 찾아서 복사
+5. _config.yml에 **provider: "google-gtag", tracking_id: "나의 id"** 추가
+6. 방문자 수 카운트 되는 것 확인!
