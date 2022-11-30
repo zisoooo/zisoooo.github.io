@@ -37,7 +37,7 @@
 - disqus 사이트에서 댓글을 달기 위한 html코드를 복사하여 post.html에 이 기능을 나의 블로그 post에 반영
 
 ### 8. Google analytics 기능 추가
-- Google analytics 사이트에 들어가서 회원가입 후 
+- Google analytics 사이트에 들어가서 회원가입 후 나의 방문자 기록을 추가하기 위해 git blog 주소를 추가한 후 google analytics tracking 코드를 부여받아 _config.yml 파일에 추가
 ### 9. favicon 적용
 - 블로그에 하트 모양의 favicon을 적용함
 - [favicon generator사이트](https://www.favicon-generator.org)에서 favicon을 추가하는 코드를 생성하여 ./_includes/head.html의 상단에 추가함
