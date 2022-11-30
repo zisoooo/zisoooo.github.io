@@ -1,3 +1,11 @@
+---
+layout: post
+title: "추가기능"
+date: 2022-11-30 18:30:50 +0900
+categories: jekyll update
+comments: true
+---
+
 ## Google analytics 추가
 <과정>
 1. google analytics 사이트에 가입하기
